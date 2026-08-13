@@ -26,6 +26,10 @@
 *.sql
 *.sqlite
 
+# Secrets #
+###########
+cfb-config.js
+
 # OS generated files #
 ######################
 .DS_Store
